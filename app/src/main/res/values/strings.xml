@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">iSonidos</string>
-    <string name="sonido1">starwars</string>
-    <string name="video1">starwars</string>
-    <string name="sonido2">piratasdelcaribe</string>
-    <string name="video2">piratasdelcaribe</string>
-    <string name="sonido3">señordelosanillos</string>
-    <string name="video3">señordelosanillos</string>
-    <string name="sonido4">harrypotter</string>
-    <string name="video4">harrypotter</string>
+    <string name="sonido1">starwarsa</string>
+    <string name="video1">starwarsv</string>
+    <string name="sonido2">piratasdelcaribea</string>
+    <string name="video2">piratasdelcaribev</string>
+    <string name="sonido3">senordelosanillosa</string>
+    <string name="video3">senordelosanillosv</string>
+    <string name="sonido4">harrypottera</string>
+    <string name="video4">harrypotterv</string>
 </resources>
 
